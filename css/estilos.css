@@ -212,3 +212,23 @@ height:220px;
 object-fit:cover;
 object-position:center;
 }
+
+/* Ajustes para celular */
+
+@media (max-width: 768px){
+
+.carousel-caption h5{
+font-size: 1.2rem;
+}
+
+.carousel-caption p{
+font-size: 0.9rem;
+}
+
+.carousel-caption .btn{
+font-size: 0.85rem;
+padding: 6px 12px;
+}
+
+}
+

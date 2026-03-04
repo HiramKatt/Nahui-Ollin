@@ -230,5 +230,12 @@ font-size: 0.85rem;
 padding: 6px 12px;
 }
 
+@media (max-width: 768px){
+
+.carousel-caption{
+bottom: 10px;
 }
+
+
+
 
